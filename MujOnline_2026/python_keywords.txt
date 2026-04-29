@@ -1,0 +1,30 @@
+Python reserves some of the names that cannot be used as programmerdefined identifiers
+
+• and
+• assert
+• break
+• while
+• continue
+• class
+• del
+• elif
+• else
+• def
+• exec
+• except
+• for
+• from
+• global
+• finally
+• if
+• is
+• lambda
+• not
+• in
+• pass
+• or
+• raise
+• return
+• try
+• print
+• yield
